@@ -1,7 +1,7 @@
 {
   "name": "blog-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Blog App",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -26,5 +26,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": "https://github.com/ikazreal21/Simple-Blog-App",
+  "author": "ikazreal21 <66871228+ikazreal21@users.noreply.github.com>",
+  "license": "MIT"
 }
