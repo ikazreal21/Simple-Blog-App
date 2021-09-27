@@ -23,7 +23,7 @@ function Header() {
         className={classes.appBar}>
         <ToolBar>
           <Typography variant="h6" color="inherit" noWrap>
-            BlogWebsite
+            Simple Blog App
           </Typography>
         </ToolBar>
       </AppBar>
