@@ -49,7 +49,7 @@ const Post = (props) => {
                   <CardMedia
                     className={classes.cardMedia}
                     image={post.image}
-                    title="Image title"
+                    title={post.title}
                   />
                   <CardContent className={classes.cardContent}>
                     <Typography
